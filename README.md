@@ -22,6 +22,8 @@ https://github.com/johnsiddoway/dnd-cards
 
 # CSS
 
+see the phb.standalone.css from https://github.com/naturalcrit/homebrewery
+
 # Character sheets
 
 ## React
